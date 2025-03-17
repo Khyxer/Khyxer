@@ -2,7 +2,7 @@
 
 [![Twitter: khyxer](https://img.shields.io/twitter/follow/khyxer?style=social)](https://x.com/Khyxer_)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/luis-carlos-herrera-maussa-b44a66335/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat&logo=react)](yxer.netlify.app)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat&logo=react)](https://khyxer.netlify.app/)
 
 > 🚀 Construyendo experiencias web excepcionales con pasión y curiosidad infinita
 
