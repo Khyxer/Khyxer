@@ -1,8 +1,6 @@
-# 💻 Khz - Desarrollador Web Full Stack
+# 🦖 Hola, soy Khyxer
 
-[![Twitter: khyxer](https://img.shields.io/twitter/follow/khyxer?style=social)](https://x.com/Khyxer_)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/luis-carlos-herrera-maussa-b44a66335/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat&logo=react)](https://khyxer.netlify.app/)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=23&pause=1000&color=F7F7F7&width=435&lines=Bienvenido+a+mi+pefil;Desarrollador+de+software;Estudiante+de+ingenieria+de+software)](https://git.io/typing-svg)
 
 > 🚀 Construyendo experiencias web excepcionales con pasión y curiosidad infinita
 
@@ -23,7 +21,6 @@ Soy un desarrollador web apasionado por crear soluciones elegantes a problemas c
 ![Astro](https://img.shields.io/badge/-Astro-FF5D01?style=flat&logo=astro&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![SASS](https://img.shields.io/badge/-SASS-CC6699?style=flat&logo=sass&logoColor=white)
 ![Redux](https://img.shields.io/badge/-Vite-blue?style=flat&logo=vite&logoColor=yellow)
 
 ### Backend
@@ -32,7 +29,6 @@ Soy un desarrollador web apasionado por crear soluciones elegantes a problemas c
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![SQLite](https://img.shields.io/badge/-SQLite-336791?style=flat&logo=sqlite&logoColor=white)
 
-
 ### Herramientas
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
@@ -40,4 +36,4 @@ Soy un desarrollador web apasionado por crear soluciones elegantes a problemas c
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 ### Lengaujes mas usados
-![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=Khyxer)
+![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=Khyxer&theme=radical)
