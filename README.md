@@ -12,7 +12,7 @@ Soy un desarrollador web apasionado por crear soluciones elegantes a problemas c
 - 🌱 Aprendiendo **TypeScript** y **NextJS**
 - 👯 Busco colaborar en **proyectos open source** y **startups innovadoras**
 - 💬 Pregúntame sobre **React, Node.js, arquitectura de aplicaciones web**
-- 📫 Contáctame: **luismaussa12@gmail.com**
+- 📫 Contáctame: **luismaussa12@gmail.com**tz
 
 ## 🛠️ Stack Tecnológico
 
