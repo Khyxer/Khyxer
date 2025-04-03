@@ -35,10 +35,8 @@ Soy un desarrollador web apasionado por crear soluciones elegantes a problemas c
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
-
 ## 🐧 Estadisticas
-
-<div style="display: flex; align-items: center; justify-content: center; gap: 20px; flex-wrap: wrap;">
+<div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khyxer&theme=dracula" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=khyxer&theme=dracula" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=khyxer&theme=dracula&show_icons=true" alt="GitHub Stats" />
 </div>
