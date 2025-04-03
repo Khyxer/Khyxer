@@ -35,11 +35,10 @@ Soy un desarrollador web apasionado por crear soluciones elegantes a problemas c
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Khyxer&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Khyxer&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=Khyxer&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
 
-## 🐧 Lengaujes mas usados
-![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=Khyxer&theme=radical)
+## 🐧 Estadisticas
+
+<div style="display: flex; align-items: center; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khyxer&theme=dracula" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=khyxer&theme=dracula" alt="GitHub Stats" />
+</div>
