@@ -1,6 +1,6 @@
 # 🦖 Hola, soy Luis
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=23&pause=1000&color=F7F7F7&width=435&lines=Bienvenido+a+mi+pefil;Desarrollador+de+software;Estudiando+ingenieria+de+software)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=23&pause=1000&color=F7F7F7&width=435&lines=Bienvenido+a+mi+pefil;Desarrollador+de+software;Estudiando+ingenieria+de+software)
 
 > 🚀 Construyendo experiencias web excepcionales con pasión y curiosidad infinita
 
