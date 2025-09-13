@@ -1,6 +1,6 @@
 # 🦖 Hola
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=300&color=F7F7F7&width=805&lines=Bienvenido+a+mi+pefil;Desarrollador+de+software;Estudiante+Ingenieria+de+software)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=300&color=F7F7F7&width=805&lines=Bienvenido+a+mi+pefil;Desarrollador+de+software)
 
 > 🚀 Construyendo experiencias web excepcionales con pasión y curiosidad infinita
 
